@@ -14,4 +14,3 @@ compinit
 
 # Created by `pipx` on 2025-06-01 18:15:33
 export PATH="$PATH:.local/bin:"
-
