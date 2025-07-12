@@ -29,7 +29,7 @@ ttf-profont-nerd
 awesome-terminal-fonts
 hyprcursor
 fastfetch
-htop
+bashtop
 
 zuki-themes-git
 kora-icon-theme
