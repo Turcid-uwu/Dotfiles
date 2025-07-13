@@ -15,8 +15,6 @@ mako
 waybar
 gnome-disk-utility
 seahorse
-kvantum
-kvantum-qt5
 nwg-look
 qt5ct
 qt6ct
