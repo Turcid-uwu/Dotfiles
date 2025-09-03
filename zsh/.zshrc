@@ -15,3 +15,6 @@ compinit
 # Created by `pipx` on 2025-06-01 18:15:33
 export PATH="$PATH:.local/bin:"
 fpath+=~/.zfunc; autoload -Uz compinit; compinit
+
+# Created by `pipx` on 2025-08-04 04:22:02
+export PATH="$PATH:/home/turcid/.local/bin"
